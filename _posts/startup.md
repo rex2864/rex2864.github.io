@@ -1,0 +1,10 @@
+---
+title: startup
+date: 2023-02-13 04:15:00 +900
+categories: [blog,start]
+tags: []
+---
+
+# Startup
+
+start blog again!

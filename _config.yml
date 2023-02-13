@@ -34,19 +34,16 @@ url: 'https://blog.kylesoft.net'
 github:
   username: rex2864             # change to your github username
 
-twitter:
-  username: # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Kyle
-  email: rex2864@gmail.com             # change to your email address
+  # email: rex2864@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/rex2864       # change to your github homepage
     # Uncomment below to add more social links
+    # - https://twitter.com/username
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
